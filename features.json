@@ -1,0 +1,25 @@
+{
+    "policyFeatures": {
+        "coverageType": "Individual",
+        "sumAssured": 100000,
+        "claimLimit": 50000,
+        "coverageDetails": "Hospitalization, outpatient treatment, and medicines."
+    },
+    "renewalOffers": {
+        "discount": 10,
+        "updatedPremium": 1200,
+        "addOnOffer": "Critical Illness Cover for $50/year."
+    },
+    "addOns": [
+        {
+            "name": "Critical Illness Cover",
+            "price": 50,
+            "description": "Provides coverage for major illnesses like cancer and heart attack."
+        },
+        {
+            "name": "Accidental Death Benefit",
+            "price": 25,
+            "description": "Additional payout in case of accidental death."
+        }
+    ]
+}

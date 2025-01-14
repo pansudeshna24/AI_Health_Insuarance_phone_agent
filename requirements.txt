@@ -1,0 +1,5 @@
+Flask==2.0.1
+twilio==7.18.0
+openai==0.28.0
+googletrans==4.0.0-rc1
+textblob==0.15.3
